@@ -1,0 +1,235 @@
+﻿1
+00:00:00,840 --> 00:00:03,560
+This is Charlie, a Defence Employee
+
+2
+00:00:03,560 --> 00:00:05,400
+Let’s see Charlie’s attitude towards
+
+3
+00:00:05,400 --> 00:00:07,480
+security in this scenario
+
+4
+00:00:07,480 --> 00:00:09,480
+It’s Monday morning and Charlie is
+
+5
+00:00:09,480 --> 00:00:12,240
+finishing his breakfast. On the Radio
+
+6
+00:00:12,240 --> 00:00:13,720
+that morning there’s a breaking news
+
+7
+00:00:13,720 --> 00:00:15,640
+story on an incident affecting Defence
+
+8
+00:00:15,640 --> 00:00:17,920
+capability and information
+
+9
+00:00:17,920 --> 00:00:20,520
+due to suspected cyber activity
+
+10
+00:00:21,520 --> 00:00:22,960
+Charlie doesn’t pay particular
+
+11
+00:00:22,960 --> 00:00:24,720
+attention to the news, he’s getting
+
+12
+00:00:24,720 --> 00:00:27,000
+ready for a busy day, when he’s done
+
+13
+00:00:27,000 --> 00:00:28,920
+he rushes out the door
+
+14
+00:00:28,920 --> 00:00:31,320
+Driving to work Charlie hears
+
+15
+00:00:31,320 --> 00:00:32,720
+the breaking news story again
+
+16
+00:00:32,720 --> 00:00:35,200
+The story talks about a website
+
+17
+00:00:35,200 --> 00:00:36,800
+exposing classified Defence
+
+18
+00:00:36,800 --> 00:00:38,680
+information related to millions of
+
+19
+00:00:38,680 --> 00:00:40,800
+dollars of high tech equipment
+
+20
+00:00:40,800 --> 00:00:42,120
+Still not paying much attention
+
+21
+00:00:42,120 --> 00:00:44,560
+to the story, Charlie changes channel
+
+22
+00:00:44,560 --> 00:00:46,080
+to listen to some music
+
+23
+00:00:46,720 --> 00:00:48,760
+When Charlie arrives at work his
+
+24
+00:00:48,760 --> 00:00:50,600
+workmates are talking about the leak
+
+25
+00:00:50,600 --> 00:00:52,600
+It was apparently hacked from someone’s
+
+26
+00:00:52,600 --> 00:00:55,240
+personal email account. They’re
+
+27
+00:00:55,240 --> 00:00:56,960
+wondering who in their right mind would
+
+28
+00:00:56,960 --> 00:00:59,120
+send classified information from the
+
+29
+00:00:59,120 --> 00:01:01,720
+DPN to their home email account?
+
+30
+00:01:01,720 --> 00:01:04,200
+Charlie remembers he sent classified
+
+31
+00:01:04,200 --> 00:01:06,480
+information to his Gmail last Friday
+
+32
+00:01:06,480 --> 00:01:08,400
+because he wanted to save time
+
+33
+00:01:08,400 --> 00:01:10,520
+to meet project deadlines
+
+34
+00:01:10,520 --> 00:01:12,760
+Charlie’s workmates explain how he has
+
+35
+00:01:12,760 --> 00:01:14,800
+compromised the information, risked
+
+36
+00:01:14,800 --> 00:01:17,520
+Defence’s reputation and put the
+
+37
+00:01:17,520 --> 00:01:19,520
+entire project at risk
+
+38
+00:01:19,520 --> 00:01:21,640
+Charlie explains he was just trying
+
+39
+00:01:21,640 --> 00:01:23,880
+to be efficient and meet the deadline
+
+40
+00:01:23,880 --> 00:01:26,120
+Charlie is informed that senior
+
+41
+00:01:26,120 --> 00:01:27,680
+management have been in the boardroom
+
+42
+00:01:27,680 --> 00:01:29,680
+all morning discussing the
+
+43
+00:01:29,680 --> 00:01:31,200
+Security incident
+
+44
+00:01:31,200 --> 00:01:33,520
+Charlie becomes greatly concerned
+
+45
+00:01:33,520 --> 00:01:35,160
+He thinks about how this could affect
+
+46
+00:01:35,160 --> 00:01:38,000
+him. Will he lose his job, what could
+
+47
+00:01:38,000 --> 00:01:40,560
+this mean for his family? He didn’t
+
+48
+00:01:40,560 --> 00:01:42,240
+mean to cause Defence’s
+
+49
+00:01:42,240 --> 00:01:43,800
+reputation harm
+
+50
+00:01:43,800 --> 00:01:47,080
+The boardroom door opens and Charlie
+
+51
+00:01:47,080 --> 00:01:49,120
+is immediately requested to come in
+
+52
+00:01:50,000 --> 00:01:52,640
+Charlie’s actions weren’t unintentional
+
+53
+00:01:52,640 --> 00:01:54,560
+they were deliberate
+
+54
+00:01:56,200 --> 00:01:58,560
+If he listened to his Security Officer
+
+55
+00:01:58,560 --> 00:02:00,800
+about protecting Official Information
+
+56
+00:02:00,800 --> 00:02:03,160
+or paid attention when completing his
+
+57
+00:02:03,160 --> 00:02:05,400
+Annual Security Awareness Course he
+
+58
+00:02:05,400 --> 00:02:07,200
+would have understood exactly
+
+59
+00:02:07,200 --> 00:02:09,320
+what could happen to him
